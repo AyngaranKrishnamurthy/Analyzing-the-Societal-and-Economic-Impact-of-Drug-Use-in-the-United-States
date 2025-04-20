@@ -104,7 +104,7 @@ We saw:
 - Sharp GDP dips during **2008** and **2020**
 - **Year-over-year growth slowed** significantly during high-unemployment years
 
-### Figure 3.4 shows:[Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-34)
+- **Figure 3.4 shows**: Shows the relationship between Unemployment count and GDP Increase [Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-34)
 - A clear **inverse relationship** between GDP and unemployment.
 - Since drug deaths are linked to unemployment, the implication is that **drug abuse indirectly drags down GDP**.
 
