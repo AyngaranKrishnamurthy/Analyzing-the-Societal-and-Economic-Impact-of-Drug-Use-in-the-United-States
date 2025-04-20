@@ -158,6 +158,11 @@ By addressing substance abuse, we’re not just saving lives — we’re **prote
 - BEA: [GDP and Personal Income](https://apps.bea.gov/itable)
 - Plotly: [Python Graphing Library](https://plotly.com/python/getting-started/)
 
+## Related Links
+- Google Colab: [Analyzing the Societal and Economic Impact of Drug Use in the U.S.](https://colab.research.google.com/drive/1ZT-vG3zjBmuBoMVlopaN6nnZJVc3tC5d?usp=sharing)
+- Github Link: [Analyzing the Societal and Economic Impact of Drug Use in the U.S.](https://github.com/AyngaranKrishnamurthy/Analyzing-the-Societal-and-Economic-Impact-of-Drug-Use-in-the-United-States)
+- Presentation Link: [Analyzing the Societal and Economic Impact of Drug Use in the U.S.](https://youtu.be/tkJ0FnJgTNE)
+
 ---
 
 *Prepared and compiled as part of CS 625 Data Visualization Coursework by Ayngaran Krishnamurthy.*
