@@ -64,7 +64,7 @@ When we examined the CDC dataset, a concerning trend emerged:
   [Explore the Interactive Chart](https://polite-seahorse.static.domains/interactive-chart-11)
 
 - **Figure 1.3**: Alcohol deaths by state  
-  ![Alcohol Deaths](image\image-1.png)
+  ![Alcohol Deaths](image-1.png)
   [Explore the Interactive Chart](https://polite-seahorse.static.domains/interactive-chart-11)
 
 - **Figure 1.4**: Drug deaths by age  
