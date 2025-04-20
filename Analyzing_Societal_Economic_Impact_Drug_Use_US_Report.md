@@ -61,9 +61,11 @@ Initial analysis of the CDC’s dataset showed a disturbing pattern:
 
 ### Visual Highlights
 - **Figure 1.1**: Drug deaths by state
-<iframe src="https://polite-seahorse.static.domains/interactive-chart-11" width="100%" height="600"></iframe>
+[Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-11)
 
 - **Figure 1.3**: Alcohol-related deaths by state
+[Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-11)
+
 - **Figure 1.4 & 1.5**: Age-wise and time-wise trends in drug-related deaths
 
 ### Key Insights
