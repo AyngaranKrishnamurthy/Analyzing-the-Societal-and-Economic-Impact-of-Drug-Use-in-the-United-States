@@ -61,14 +61,20 @@ Initial analysis of the CDC’s dataset showed a disturbing pattern:
 
 ### Visual Highlights
 - **Figure 1.1**: Drug deaths by state
+![alt text](image.png)
 [Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-11)
 
 - **Figure 1.3**: Alcohol-related deaths by state
+![alt text](image-1.png)
 [Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-11)
 
-- **Figure 1.4 & 1.5**: Age-wise and time-wise trends in drug-related deaths [Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-12)
+- **Figure 1.4**: Age-wise trends in drug-related deaths 
+![alt text](image-2.png)
+[Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-12)
 
-- **Figure 1.5**: Time-wise trends in drug-related deaths [Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-13)
+- **Figure 1.5**: Time-wise trends in drug-related deaths 
+![alt text](image-3.png)
+[Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-13)
 
 ### Key Insights
 Drug abuse is no longer an isolated issue — it is a growing public health crisis that demands attention, especially for young and middle-aged adults.
@@ -86,9 +92,11 @@ Next, we examined unemployment data. Two spikes stood out:
 States with higher **drug-induced deaths also reported higher unemployment**.
 
 - **Figure 2.3**: Show correlations between drug deaths and the **rate** and  of unemployed.
+![alt text](image-4.png)
 [Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-23)
 
 - **Figure 2.4**: Show correlations between drug deaths and the **total number** of unemployed.
+![alt text](image-5.png)
 [Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-24)
 
 ### Interpretation
@@ -104,7 +112,9 @@ We saw:
 - Sharp GDP dips during **2008** and **2020**
 - **Year-over-year growth slowed** significantly during high-unemployment years
 
-- **Figure 3.4 shows**: Shows the relationship between Unemployment count and GDP Increase [Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-34)
+- **Figure 3.4 shows**: Shows the relationship between Unemployment count and GDP Increase 
+![alt text](image-6.png)
+[Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-34)
 - A clear **inverse relationship** between GDP and unemployment.
 - Since drug deaths are linked to unemployment, the implication is that **drug abuse indirectly drags down GDP**.
 
