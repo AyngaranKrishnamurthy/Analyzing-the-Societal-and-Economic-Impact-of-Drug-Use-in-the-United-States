@@ -60,19 +60,19 @@ When we examined the CDC dataset, a concerning trend emerged:
 
 ### Visual Highlights:
 - **Figure 1.1**: Drug deaths by state  
-  ![Drug Deaths](image.png)
+  ![Drug Deaths](img\image.png)
   [Explore the Interactive Chart](https://polite-seahorse.static.domains/interactive-chart-11)
 
 - **Figure 1.3**: Alcohol deaths by state  
-  ![Alcohol Deaths](image-1.png)
+  ![Alcohol Deaths](img\image-1.png)
   [Explore the Interactive Chart](https://polite-seahorse.static.domains/interactive-chart-11)
 
 - **Figure 1.4**: Drug deaths by age  
-  ![Age-wise Trends](image-2.png)
+  ![Age-wise Trends](img\image-2.png)
   [Explore the Interactive Chart](https://polite-seahorse.static.domains/interactive-chart-12)
 
 - **Figure 1.5**: Drug deaths over time  
-  ![Time Trends](image-3.png)
+  ![Time Trends](img\image-3.png)
   [Explore the Interactive Chart](https://polite-seahorse.static.domains/interactive-chart-13)
 
 ### What This Tells Us
@@ -92,11 +92,11 @@ Major events like:
 
 ### Visual Highlights:
 - **Figure 2.3**: Drug deaths vs. unemployment rate  
-  ![Unemployment Rate Correlation](image-4.png)
+  ![Unemployment Rate Correlation](img\image-4.png)
   [Explore the Interactive Chart](https://polite-seahorse.static.domains/interactive-chart-23)
 
 - **Figure 2.4**: Drug deaths vs. total unemployed population  
-  ![Unemployment Count Correlation](image-5.png)
+  ![Unemployment Count Correlation](img\image-5.png)
   [Explore the Interactive Chart](https://polite-seahorse.static.domains/interactive-chart-24)
 
 ### What This Tells Us
@@ -114,7 +114,7 @@ Key observations:
 
 ### Visual Highlight:
 - **Figure 3.4**: GDP vs. Unemployment Count  
-  ![GDP & Unemployment](image-6.png)
+  ![GDP & Unemployment](img\image-6.png)
   [Explore the Interactive Chart](https://polite-seahorse.static.domains/interactive-chart-34)
 
 ### What This Tells Us
