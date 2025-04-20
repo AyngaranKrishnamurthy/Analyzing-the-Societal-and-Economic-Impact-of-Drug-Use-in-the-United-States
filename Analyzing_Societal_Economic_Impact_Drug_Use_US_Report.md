@@ -66,7 +66,9 @@ Initial analysis of the CDC’s dataset showed a disturbing pattern:
 - **Figure 1.3**: Alcohol-related deaths by state
 [Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-11)
 
-- **Figure 1.4 & 1.5**: Age-wise and time-wise trends in drug-related deaths
+- **Figure 1.4 & 1.5**: Age-wise and time-wise trends in drug-related deaths [Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-12)
+
+- **Figure 1.5**: Time-wise trends in drug-related deaths [Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-13)
 
 ### Key Insights
 Drug abuse is no longer an isolated issue — it is a growing public health crisis that demands attention, especially for young and middle-aged adults.
@@ -83,7 +85,11 @@ Next, we examined unemployment data. Two spikes stood out:
 ### But here's where it gets revealing:
 States with higher **drug-induced deaths also reported higher unemployment**.
 
-- **Figure 2.3 & 2.4**: Show correlations between drug deaths and both the **rate** and **total number** of unemployed.
+- **Figure 2.3**: Show correlations between drug deaths and the **rate** and  of unemployed.
+[Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-23)
+
+- **Figure 2.4**: Show correlations between drug deaths and the **total number** of unemployed.
+[Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-24)
 
 ### Interpretation
 Substance abuse appears to **limit individuals' ability to remain employed**. Over time, this scales up to become a systemic economic problem.
@@ -98,7 +104,7 @@ We saw:
 - Sharp GDP dips during **2008** and **2020**
 - **Year-over-year growth slowed** significantly during high-unemployment years
 
-### Figures 3.3 & 3.4 show:
+### Figure 3.4 shows:[Access the Interactive Chart here](https://polite-seahorse.static.domains/interactive-chart-34)
 - A clear **inverse relationship** between GDP and unemployment.
 - Since drug deaths are linked to unemployment, the implication is that **drug abuse indirectly drags down GDP**.
 
