@@ -116,7 +116,7 @@ Key observations:
 - **Figure 3.4**: GDP vs. Unemployment Count  
   ![GDP & Unemployment](img\image-6.png)
   [Explore the Interactive Chart](https://polite-seahorse.static.domains/interactive-chart-34)
-
+ 
 ### What This Tells Us
 GDP and unemployment are **inversely proportional**. When unemployment rises — often fueled by drug-related issues — **GDP takes a hit**. This highlights the economic cost of addiction at a national scale.
 
